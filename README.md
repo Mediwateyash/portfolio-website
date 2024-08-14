@@ -1,6 +1,6 @@
-# Yash Narayan Diwate's Portfolio
+## Portfolio Website
 
-Welcome to my personal portfolio website! This project showcases my skills, projects, and experience. The website is built using HTML, CSS, and JavaScript.
+Welcome to my personal portfolio website! This project showcases my skills, projects, and experience. The website is built using HTML and css
 
 ## Features
 
