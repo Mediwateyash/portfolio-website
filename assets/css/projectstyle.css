@@ -39,6 +39,7 @@ section {
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     border-radius: 8px;
     max-width: 800px;
+    width: 100%;
 }
 
 .project-overview {
