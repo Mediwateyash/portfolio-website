@@ -1,0 +1,70 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f0f2f5;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    text-align: center;
+}
+
+header, footer {
+    color: #ffffff;
+    padding: 20px 0;
+}
+
+.header {
+    background: linear-gradient(to right, #831bcd, #f9620b);
+}
+
+.footer {
+    background-color: #333;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+p {
+    font-size: 16px;
+}
+
+iframe {
+    border: none;
+}
+
+section {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    max-width: 800px;
+}
+
+.project-overview {
+    text-align: center;
+}
+
+.video-demo {
+    text-align: center;
+}
+
+.project-details {
+    text-align: left;
+}
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+
+    background-color: #f70b56;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #8f00e8;
+    
+}
