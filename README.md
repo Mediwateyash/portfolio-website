@@ -7,7 +7,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 - **About Me**: Learn more about my background and interests.
 - **Projects**: A showcase of my notable projects with descriptions and links.
 - **Skills**: An overview of the technical skills I have acquired.
-- **Contact**: Information on how to get in touch with me.
+- **Contact**: Information on how to get in touch with me. AND MORE
 
 ## Installation
 
