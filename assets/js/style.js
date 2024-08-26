@@ -1,9 +1,9 @@
 function changeAboutMeText() 
 {
-    const aboutMeTexts = ["a Tech a Full Stack Web Developer", "Pursuing Computer Engineering from Watumull Institute of Electronic Engineering and Computer Technology", ]; // Add more texts as needed
-    const typingSpeed = 100; // milliseconds per character
-    const eraseSpeed = 50; // milliseconds per character during erasing
-    const pauseTime = 1500; // milliseconds to pause between each text change
+    const aboutMeTexts = ["a Software Engineering enthusiast.", "a Full Stack Web Developer.", "a Student of B.E Computer Engineering", ]; // 
+    const typingSpeed = 120; // milliseconds per character
+    const eraseSpeed = 20; // milliseconds per character during erasing
+    const pauseTime = 150; // milliseconds to pause between each text change
     const aboutMeElement = document.querySelector('.about-me');
 
     let textIndex = 0;

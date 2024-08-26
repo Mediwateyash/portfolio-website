@@ -261,8 +261,32 @@ form button:hover {
 
 .btn:hover {
     background-color: #15f3b4;
+}
 
-   
+.horizontal-scroll {
+    overflow-x: hidden; /* Hide any overflowing content */
+    width: 100%; /* Occupy full width of the screen */
+}
+
+.icon-container {
+    display: flex; /* Display icons in a row */
+    animation: scrollAnimation 12s linear infinite; /* Adjust animation duration as needed */
+    width: max-content; /* Make the container width fit its content */
+}
+
+.icon-container img {
+    width: 60px; /* Adjust the width of icons as needed */
+    height: 60px; /* Adjust the height of icons as needed */
+    margin-right: 20px; /* Adjust margin between icons as needed */
+}
+
+@keyframes scrollAnimation {
+    0% {
+        transform: translateX(100vw); /* Start from the right edge of the viewport */
+    }
+    100% {
+        transform: translateX(-100%); /* Move to the left edge */
+    }
 }
 
 
